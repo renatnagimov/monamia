@@ -11,6 +11,7 @@ body{
     background: #ffe4e0;
     width: 100%;
     display: flex;
+    justify-content: center;
 }
 .graficlogo{
     padding: 5px;
