@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+}
+body{
+    font-family: 'Chilanka', cursive;
+}
+.logo{
+    background: #7adae663;
+    width: 100%;
+    display: flex;
+}
+.graficlogo{
+    padding: 5px;
+    max-width: 100%;
+    box-sizing: border-box; 
+}
