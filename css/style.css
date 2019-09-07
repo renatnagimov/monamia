@@ -21,7 +21,7 @@ body{
 nav{
     margin: auto;
     width: 800px;
-    height: 100px;
+    height: 50px;
 }
 .topnav{
     background-color: white;
@@ -38,7 +38,7 @@ nav{
 }
 .topnav a:hover{
     border-bottom: 2px solid #ffe4e0;
-    background: #ffe4e0; color: #362316;
+    ackground: #ffe4e0; color: #362316;
 }
 .topnav .icon{
     display: none;
