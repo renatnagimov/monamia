@@ -38,7 +38,7 @@ nav{
 }
 .topnav a:hover{
     border-bottom: 2px solid #ffe4e0;
-    ackground: #ffe4e0; color: #362316;
+    *background: #ffe4e0; color: #362316;
 }
 .topnav .icon{
     display: none;
